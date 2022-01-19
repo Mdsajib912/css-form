@@ -1,0 +1,93 @@
+* {margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(a.jpg);
+	background-repeat:no-repeat ;
+	background-position: center center;
+	background-size: cover;
+	opacity: 2.5px;
+
+}
+.anik{
+	margin: auto;
+	width: 50%;
+	min-height: 300px;
+	background: pink;
+	padding: 25px;
+	border-radius: 15px;
+	}
+
+input { 
+	width: 100%;
+	height: 50px;
+	margin: 10px 0px;
+	border-radius: 15px;
+	padding: 0px 10px;
+	font-size: 18px;
+	border: none;
+	background: white;
+ }
+ .submit{
+ 	width: 150px;
+ 	border-radius: 0px;
+ 	background: white;
+ }
+h1{
+	font-size: 24;
+	color: white;
+}
+p{
+	font-size: 24;
+	color: white;
+}
+p a{
+	color: white;
+}
+.mainbox{
+	margin: auto;
+	width: 500px;
+	height: 300px;
+	background: pink;
+	padding: 25px;
+	border-radius: 15px;
+	}
+
+input { 
+	width: 100%;
+	height: 50px;
+	margin: 10px 0px;
+	border-radius: 15px;
+	padding: 0px 10px;
+	font-size: 18px;
+	border: none;
+	background: white;
+ }
+ .login{
+ 	width: 100%;
+ 	height:30px;
+ 	border-radius: 15pxpx;
+ 	background: green;
+ 	padding-left: 200px;
+ 	font-size: 15px;
+ }
+h1{
+	font-size: 24;
+	color: white;
+}
+p{
+	font-size: 24;
+	color: white;
+}
+p a{
+	color: white;
+}
+.run{
+	min-width: 250px;
+	min-height:200px ;
+	margin: auto;
+	border: 2px solid;
+	color: white;
+}
+
